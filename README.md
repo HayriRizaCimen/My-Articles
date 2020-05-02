@@ -1,1 +1,1 @@
-# Yazılım Yaşam Döngü Modellerini çeşitli kaynaklardan yararlanarak genel hatlarıyla açıklamaya çalıştım.
+# Yazılım Yaşam Döngü Modellerini(SDLC) çeşitli kaynaklardan yararlanarak genel hatlarıyla açıklamaya çalıştım.
